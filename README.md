@@ -2,18 +2,6 @@
 
 ## Simple Pipeline 
 
-```
-Fetch Decode
-```
-```
-Execution
-(Register fetch +
-Execution +
-Writeback
-```
-```
-Register File
-```
 Model simple pipeline with the following three stages.  
 
 ```
